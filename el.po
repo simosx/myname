@@ -1,2 +1,5 @@
 msgid "Hello"
 msgstr "Γεια σου"
+
+msgid "Hi"
+msgstr "Γεια"
