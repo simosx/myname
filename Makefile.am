@@ -1,1 +1,1 @@
-DOC_LINGUAS = am el en es fr
+DOC_LINGUAS = am el en es fr zh
